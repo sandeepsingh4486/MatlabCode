@@ -1,0 +1,8 @@
+OS:WINDOWS XP\7
+PLATFORM: MATLAB R2009
+STEP1:Open liver extraction folder
+STEP2:Open main.m ( don't open main.fig) 
+STEP3:Run main.m
+STEP4:Select the input image (if require do threshold settings, by default upper threshold is 190 and lower one is 156)
+(Don't press any key when GUI is in Busy)
+STEP5:Press 'intermediate results' button to view perimeter plots.
